@@ -1,0 +1,26 @@
+Ideas for some sessions for the open days at the the Mono Summit in Madrid
+
+
+* Embedding Mono 
+
+	Scripting applications through the Mono Virtual Machine
+
+	Discuss C#, Boo, IronPython and how they can be embedded
+
+* Mono on Windows
+
+  
+* Mono on Mac
+
+	Discuss Winforms on OSX
+	Possible directions (Native Gtk/OSX)
+	CocoaSharp
+
+* Existing Use Cases
+
+	Users of the Mono Platform: existing users talk about what
+	they are using Mono for.
+
+	Show existing success case stories.
+
+* 
